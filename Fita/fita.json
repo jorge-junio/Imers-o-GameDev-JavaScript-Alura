@@ -1,0 +1,25 @@
+{
+  "configuracoes": {
+    "vidaMaxima": 8,
+    "vidaInicial": 8
+  },
+  
+  "mapa": [
+    {  
+      "inimigo": 0,
+      "velocidade": 50
+    },
+    {
+      "inimigo": 1,
+      "velocidade": 80
+    },
+    {
+      "inimigo": 1,
+      "velocidade": 100
+    },
+    {  
+      "inimigo": 2,
+      "velocidade": 140
+    }
+  ]
+}
