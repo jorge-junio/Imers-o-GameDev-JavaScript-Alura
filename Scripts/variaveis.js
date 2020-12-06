@@ -25,7 +25,7 @@ let botaoGerenciador;
 let vida;
 let fita;
 
-let cenaAtual = 'jogo';
+let cenaAtual = 'telaInicial';
 let cenas;
 
 const inimigos = [];
